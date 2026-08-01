@@ -1,4 +1,4 @@
 discord.py
 aiohttp
 python-dotenv
-pip install discord.py aiohttp python-dotenv
+discord.py aiohttp python-dotenv
